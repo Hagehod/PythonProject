@@ -1,7 +1,7 @@
 from pages.contacts_page import RedirectToTensor
 from utils.utils import Utils
 
-CURRENT_REGION = 'Чувашская Республика'
+CURRENT_REGION = 'Ярославская обл.'
 TEST_REGION = 'Камчатский край'
 
 class TestPage:
